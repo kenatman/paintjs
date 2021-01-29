@@ -36,6 +36,8 @@ body {
 
 .controls__btn {
   margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
 }
 .controls__btn button {
   all: unset;
@@ -59,4 +61,6 @@ body {
 
 .controls__range {
   margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
 }
